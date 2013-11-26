@@ -1,0 +1,19 @@
+#################
+## Dart Editor ##
+#################
+## Taken from here
+## http://stackoverflow.com/q/16062424/1165441
+
+packages
+.project
+*.iml
+*.ipr
+*.iws
+.idea/
+*.dart.js
+*.js_
+*.js.deps
+*.js.map
+.buildlog
+web/out/*
+.idea
